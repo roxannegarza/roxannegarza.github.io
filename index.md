@@ -1,8 +1,10 @@
 ---
 layout: default
+title: About
+description: 
 ---
 
-# About | [Link to another page](./another-page.html).
+## About | [Media](./media.html). | [Campaign Endorsements](./endorsements.html). | [Issues](./issues.html).
 
 Roxanne Carrillo Garza is an innovative voice on Contra Costa County. She has trusted leadership that represents community values reflecting both her personal and professional experiences.
 
