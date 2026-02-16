@@ -2,126 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About | [Link to another page](./another-page.html).
 
-[Link to another page](./another-page.html).
+Roxanne Carrillo Garza is an innovative voice on Contra Costa County. She has trusted leadership that represents community values reflecting both her personal and professional experiences.
 
-There should be whitespace between paragraphs.
+Roxanne learned about social justice issues from her mother who was a Public Health Nurse and her father who was an artist who later was an elected union leader. These strong family and community values and hard work ethic helped her achieve a Bachelor's degree in Political Science and a Master's Degree in Social Welfare. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+When her two children were young, Roxanne was a single mother living in Pleasant Hill. She knows first-hand the challenges of navigating public services to support a family.
 
-# Header 1
+Her 27 years of experience with County issues combined with her personal experiences that mirror many residents and her educational background make her uniquely qualified to lead in the county of Contra Costa through the Healthy Contra Costa initiative.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Roxanne’s professional experience includes serving as the Public Health Program Manager for Contra Costa Health Services. In her role, she worked on environmental justice and developed a framework for Public Health, a cross-divisional approach to Violence Prevention and a Health Equity initiative in the department. Roxanne also worked with residents on health policy issues impacting neighborhoods across the county.
 
-## Header 2
+Currently she is the Senior Policy Director of a non-profit organization where Roxanne leads a team of employees and coalition partners on campaigns that focuses on health, economic justice, education equity and neighborhood improvements.  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+When the Covid-19 pandemic impacted Contra Costa County, Roxanne was asked to serve on the County’s COVID Vaccine Ethical and Equity Vaccine Allocations Committee. She led efforts to increase access to COVID testing and vaccination services. She built coalitions, and because of her trusted leadership residents from across the County raised their voices and shared their experiences.
 
-### Header 3
+Her respected leadership has resulted in Roxanne being tapped to serve on many important Countywide and Regional Committees that inform public policies affecting Contra Costa residents being considered by the Board of Supervisors and other elected officials in our region.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Some of those committees include:
+* Contra Costa Health Services Covid Vaccine Ethical and Equity Vaccine Allocations Committee
+* #OneContraCosta Coalition
+* Gateways For Growth Advisory Committee, Contra Costa County
+* Chair of the Measure X Community Advisory Board
+* Budget Justice Coalition
+* CCC Racial Justice Coalition
+* Host Table for the County Office of Racial Equity and Social Justice
+* Bay Area Air Quality Management District - Steering Committee on Air Quality
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Roxanne and her husband Jaime met 18 years ago and have been married for 15 years. They share their Pleasant Hill home with her mother.
 
-#### Header 4
+To see a short bio in her own words, please see the video below from a panel in which she presented with the National Academies for Science,, Engineering and Medicine.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eAumByEiNaY/0.jpg)](https://www.youtube.com/watch?v=eAumByEiNaY)
-
-https://youtu.be/eAumByEiNaY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Y8j7B14No?si=2RWPP_TyZi0xmWFr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
