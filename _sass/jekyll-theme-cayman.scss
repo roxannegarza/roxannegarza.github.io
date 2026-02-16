@@ -1,6 +1,6 @@
--@import "normalize";
--@import "rouge-github";
--@import "variables";
+@import "normalize";
+@import "rouge-github";
+@import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 
 @mixin large {
@@ -47,8 +47,8 @@ body {
     left: 10px;
     height: auto;
     width: auto;
--    background: invert($body-link-color);
--    outline: thick solid invert($body-link-color);
+    background: invert($body-link-color);
+    outline: thick solid invert($body-link-color);
   }
 }
 
