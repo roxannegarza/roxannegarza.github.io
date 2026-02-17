@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: 
+description: About Roxanne
 ---
 
 ## About | [Media](./media.html) | [Campaign Endorsements](./endorsements.html) | [Issues](./issues.html)

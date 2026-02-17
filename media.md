@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: 
+description: Media
 ---
 
 ## [About](./index.html) | Media | [Campaign Endorsements](./endorsements.html) | [Issues](./issues.html)
