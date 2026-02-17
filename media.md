@@ -6,34 +6,167 @@ description: Media
 
 ## [About](./index.html) | Media | [Campaign Endorsements](./endorsements.html) | [Issues](./issues.html)
 
-Roxanne Carrillo Garza is an innovative voice on Contra Costa County. She has trusted leadership that represents community values reflecting both her personal and professional experiences.
+  <div class="wrap">
+    <div class="grid">
+      <!-- Card 1 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/jwzamXOGf30"
+            title="Video 1"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>Why I Ran</h3>
+          <p>Roxanne speaking to the community at the Elections Department in  Martinez CA.</p>
+        </div>
+      </article>
 
-Roxanne learned about social justice issues from her mother who was a Public Health Nurse and her father who was an artist who later was an elected union leader. These strong family and community values and hard work ethic helped her achieve a Bachelor's degree in Political Science and a Master's Degree in Social Welfare. 
+      <!-- Card 2 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/gFehEP36WOc"
+            title="Video 9"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>Campaign Launch</h3>
+          <p>Roxanne presented herself as a candidate for the Board of Supervisors.</p>
+        </div>
+      </article>
 
-When her two children were young, Roxanne was a single mother living in Pleasant Hill. She knows first-hand the challenges of navigating public services to support a family.
+      <!-- Card 3 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/CaLCBF3jcek"
+            title="Video 3"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>Experience and Qualifications</h3>
+          <p>Roxanne details her extensive experience in County issues.</p>
+        </div>
+      </article>
 
-Her 27 years of experience with County issues combined with her personal experiences that mirror many residents and her educational background make her uniquely qualified to lead in the county of Contra Costa through the Healthy Contra Costa initiative.
+      <!-- Card 4 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/nbhg9Obpt64"
+            title="Video 4"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>The Unhoused</h3>
+          <p>Answering a common question, Roxanne offers empathy for the unhoused and possible solutions.</p>
+        </div>
+      </article>
 
-Roxanne’s professional experience includes serving as the Public Health Program Manager for Contra Costa Health Services. In her role, she worked on environmental justice and developed a framework for Public Health, a cross-divisional approach to Violence Prevention and a Health Equity initiative in the department. Roxanne also worked with residents on health policy issues impacting neighborhoods across the county.
+      <!-- Card 5 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/XEINzq4zBic"
+            title="Video 5"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>Jobs</h3>
+          <p>With a vision for the future, Roxanne answers a question about jobs and economic development.</p>
+        </div>
+      </article>
 
-Currently she is the Senior Policy Director of a non-profit organization where Roxanne leads a team of employees and coalition partners on campaigns that focuses on health, economic justice, education equity and neighborhood improvements.  
+      <!-- Card 6 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/eAumByEiNaY"
+            title="Video 6"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>Climate Change</h3>
+          <p>Asked about the biggest issue in CCC, Roxanne focuses in on climate change.</p>
+        </div>
+      </article>
 
-When the Covid-19 pandemic impacted Contra Costa County, Roxanne was asked to serve on the County’s COVID Vaccine Ethical and Equity Vaccine Allocations Committee. She led efforts to increase access to COVID testing and vaccination services. She built coalitions, and because of her trusted leadership residents from across the County raised their voices and shared their experiences.
+      <!-- Card 7 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/pSCu-mcX29g"
+            title="Video 7"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>Safety</h3>
+          <p>The candidates look at safety differently. Roxanne states how she will approach the goal of safety for all.</p>
+        </div>
+      </article>
 
-Her respected leadership has resulted in Roxanne being tapped to serve on many important Countywide and Regional Committees that inform public policies affecting Contra Costa residents being considered by the Board of Supervisors and other elected officials in our region.
+      <!-- Card 8 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/xee4idxGfEY"
+            title="Video 8"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>CCTV Closing Statements</h3>
+          <p>Roxanne shares why she is rising to the moment and running for Supervisor.</p>
+        </div>
+      </article>
 
-Some of those committees include:
-* Contra Costa Health Services Covid Vaccine Ethical and Equity Vaccine Allocations Committee
-* #OneContraCosta Coalition
-* Gateways For Growth Advisory Committee, Contra Costa County
-* Chair of the Measure X Community Advisory Board
-* Budget Justice Coalition
-* CCC Racial Justice Coalition
-* Host Table for the County Office of Racial Equity and Social Justice
-* Bay Area Air Quality Management District - Steering Committee on Air Quality
+      <!-- Card 9 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/c-10a_utvaQ"
+            title="Video 9"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>On Education</h3>
+          <p>What is Roxanne's position on education.</p>
+        </div>
+      </article>
 
-Roxanne and her husband Jaime met 18 years ago and have been married for 15 years. They share their Pleasant Hill home with her mother.
+      <!-- Card 10 -->
+      <article class="card">
+        <div class="video">
+          <iframe
+            src="https://www.youtube.com/embed/5khUt13lVAk"
+            title="Video 9"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <div class="caption">
+          <h3>The Board of Supervisors</h3>
+          <p>Views on what is expected from the Board of Supervisors.</p>
+        </div>
+      </article>
 
-To see a short bio in her own words, please see the video below from a panel in which she presented with the National Academies for Science,, Engineering and Medicine.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I7Y8j7B14No?si=2RWPP_TyZi0xmWFr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+  </div>

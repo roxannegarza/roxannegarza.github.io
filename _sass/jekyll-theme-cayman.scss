@@ -428,3 +428,62 @@ a {
 .issues-icon {
   color: orange;
 }
+
+// Media styles
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: var(--gap);
+    }
+
+    /* Mobile: 1 column (9 rows naturally) */
+    @media (max-width: 768px) {
+      .wrap { padding: 16px; }
+      .grid { grid-template-columns: 1fr; }
+    }
+
+    .card {
+      background: var(--card-bg);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Responsive 16:9 video wrapper */
+    .video {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #000;
+    }
+    .video iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+
+    .caption {
+      padding: 12px 14px 14px;
+    }
+    .caption h3 {
+      margin: 0 0 6px;
+      font-size: 1rem;
+      line-height: 1.25;
+    }
+    .caption p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.92rem;
+      line-height: 1.35;
+    }
