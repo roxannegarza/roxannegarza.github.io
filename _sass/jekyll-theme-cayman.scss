@@ -453,9 +453,11 @@ a {
       background: var(--card-bg);
       border-radius: var(--radius);
       overflow: hidden;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
+      //box-shadow: 0 10px 30px rgba(0,0,0,0.35);
       display: flex;
       flex-direction: column;
+      padding: 2px;
+      border: gray .5px solid;
     }
 
     /* Responsive 16:9 video wrapper */
