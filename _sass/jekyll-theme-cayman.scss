@@ -458,7 +458,9 @@ a {
     /* Mobile: 1 column (9 rows naturally) */
     @media (max-width: 768px) {
       .wrap { padding: 16px; }
-      .grid { grid-template-columns: 1fr; }
+      .grid3 { grid-template-columns: 1fr; }
+      .grid4 { grid-template-columns: 1fr; }
+      .grid5 { grid-template-columns: 1fr; }
     }
 
     .card {
