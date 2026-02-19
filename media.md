@@ -7,7 +7,7 @@ description: Media
 ## [About](./index.html) | Media | [Campaign Endorsements](./endorsements.html) | [Issues](./issues.html)
 
   <div class="wrap">
-    <div class="grid">
+    <div class="grid3">
       <!-- Card 1 -->
       <article class="card">
         <div class="video">

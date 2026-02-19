@@ -6,7 +6,7 @@ description: Issues
 
 ## [About](./index.html) | [Media](./media.html) | [Campaign Endorsements](./endorsements.html) | Issues
 
-### <i class="fa-regular fa-people-arrows issues-icon"></i> **Thriving Communities in the Era of Covid**
+### <i class="ri-lg ri-team-fill issues-icon"></i> **Thriving Communities in the Era of Covid**
 
 --- 
 
@@ -14,7 +14,7 @@ description: Issues
 
 Responding to the pandemic and the suffering it caused and exposed must be a top priority of the next District 4 Supervisor. Roxanne demonstrated leadership to develop partnerships with Contra Costa Health Services, community-based organizations, and coalitions to respond to the Covid emergency and that experience will inform how to move us forward. We must address inequities in healthcare, education, transportation, and employment opportunities so all communities thrive.
 
-### <i class="fa-regular fa-solid fa-heart issues-icon"></i> **Responding to Crisis**
+### <i class="ri-lg ri-heart-fill issues-icon"></i> **Responding to Crisis**
 
 ---
 
@@ -28,7 +28,7 @@ The county’s Miles Hall Crisis Response Initiative, a non-police response to m
 
 Our campaign has been awarded the 2022 Moms Demand Action - Gun Sense Candidate distinction because Roxanne is committed to advocating for gun violence prevention and making a commitment to govern with gun safety in mind, when elected. Roxanne will fight for policies that are proven to reduce gun violence, protect children, and make our communities safer. She will speak out for change and use her position to advocate other decision makers to do the same.
 
-### <i class="fa-regular fa-chart-pie issues-icon"></i> **Fiscal Accountability and Transparency**
+### <i class="ri-lg ri-bar-chart-2-fill issues-icon"></i> **Fiscal Accountability and Transparency**
 
 ---
 
@@ -37,7 +37,7 @@ Our campaign has been awarded the 2022 Moms Demand Action - Gun Sense Candidate 
 Support a values-based County budgeting model that engages a diverse range of residents to share valuable experiences, innovative ideas, and expert recommendations. This transparent approach will lead to effective decision-making for funding solutions and County policies that address key priority issues facing our County, such as healthcare, housing, public safety, amongst others. Community engagement opportunities can include: community-sponsored “meet & greets” with the Supervisor and County staff; community forums, advisory boards, webinars, social media platforms, etc.that are multilingual and multigenerational for expanded community participation.
 
 
-### <i class="fa-regular fa-solid fa-house issues-icon"></i> **Sustainable Jobs and Housing**
+### <i class="ri-lg ri-home-2-fill issues-icon"></i> **Sustainable Jobs and Housing**
 
 ---
 
@@ -53,7 +53,7 @@ As the City of Concord plans the reuse project at the Naval Weapons Station, the
 
 The Measure X Community Advisory Board (Roxanne is a member) had extensive dialogue with housing experts and there are some promising practices to support, including a Local Housing Trust Fund that would help fund programs including: tenant assistance; assistance for unsheltered residents; acquisition, preservation and rehab of affordable housing; affordable housing for people with developmental disabilities; community land trust; and permanent supportive housing.
 
-### <i class="fa-regular fa-bus issues-icon"></i> **Transportation**
+### <i class="ri-lg ri-bus-2-fill issues-icon"></i> **Transportation**
 
 ---
 
@@ -61,7 +61,7 @@ The Measure X Community Advisory Board (Roxanne is a member) had extensive dialo
 
 Create connected communities where residents can safely and conveniently walk, bicycle, use public transportation or drive from home to work, school or to recreate. We must create communities that help reduce households’ transportation costs, connect workers to jobs, facilitate upward mobility and reduce our carbon footprint.
 
-### <i class="fa-regular fa-tree issues-icon"></i> **Safeguarding the Environment**
+### <i class="ri-lg ri-tree-fill issues-icon"></i> **Safeguarding the Environment**
 
 ---
 
