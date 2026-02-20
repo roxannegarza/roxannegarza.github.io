@@ -10,7 +10,7 @@ Roxanne ran for the Board of Supervisors, District 4 in Contra Costa County, Cal
 
 These are the endorsements she received for her 2022 campaign. The current titles may not reflect the current position of the endorsers.
 
-## Organizations
+### Organizations
 
 ---
 
@@ -155,7 +155,7 @@ These are the endorsements she received for her 2022 campaign. The current title
     </div>
   </div>
 
-## Individuals
+### Individuals
 
 ---
 
