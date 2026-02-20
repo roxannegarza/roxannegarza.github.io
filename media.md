@@ -4,7 +4,7 @@ title: About
 description: Media
 ---
 
-## [About](./index.html) | Media | [Campaign Endorsements](./endorsements.html) | [Issues](./issues.html)
+## [About](./index.html) | Media | [2022 Endorsements](./endorsements.html) | [2022 Issues](./issues.html)
 
   <div class="wrap">
     <div class="grid3">

@@ -4,7 +4,11 @@ title: About
 description: About Roxanne
 ---
 
-## About | [Media](./media.html) | [Campaign Endorsements](./endorsements.html) | [Issues](./issues.html)
+## About | [Media](./media.html) | [2022 Endorsements](./endorsements.html) | [2022 Issues](./issues.html)
+
+Roxanne ran for the Board of Supervisors, District 4 of the Contra Costa County in California. She is a well known voice in the county for health, education and financial issues. She is currently the chair of the Measure X Community Advisory Board for the Contra Costa County.
+
+---
 
 Roxanne Carrillo Garza is an innovative voice on Contra Costa County. She has trusted leadership that represents community values reflecting both her personal and professional experiences.
 
