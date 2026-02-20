@@ -6,7 +6,7 @@ description: About Roxanne
 
 ## About | [Media](./media.html) | [2022 Endorsements](./endorsements.html) | [2022 Issues](./issues.html)
 
-Roxanne ran for the Board of Supervisors, District 4 of the Contra Costa County in California. She is a well known voice in the county for health, education and financial issues. She is currently the chair of the Measure X Community Advisory Board for the Contra Costa County.
+Roxanne ran for the Board of Supervisors, District 4 in Contra Costa County, California. She is well known for her policy work in the areas health, education and economic justice. She is currently the chair of the Measure X Community Advisory Board for the Contra Costa County.
 
 ---
 

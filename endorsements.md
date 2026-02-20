@@ -6,7 +6,7 @@ description: Endorsements for the 2022 Campaign
 
 ## [About](./index.html) | [Media](./media.html) | 2022 Endorsements | [2022 Issues](./issues.html)
 
-Roxanne ran for the Board of Supervisors, District 4 of the Contra Costa County in California. She is a well known voice in the county for health, education and financial issues. She is currently the chair of the Measure X Community Advisory Board for the Contra Costa County.
+Roxanne ran for the Board of Supervisors, District 4 in Contra Costa County, California. She is well known for her policy work in the areas health, education and economic justice. She is currently the chair of the Measure X Community Advisory Board for the Contra Costa County.
 
 These are the endorsements she received for her 2022 campaign. The current titles may not reflect the current position of the endorsers.
 
