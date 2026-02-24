@@ -3,6 +3,3 @@ description: About Me & Media
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-
-plugins:
-  - jekyll-sitemap
