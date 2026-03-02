@@ -57,7 +57,9 @@ a {
   text-decoration: none;
 
   &:hover {
-    text-decoration: underline;
+//  text-decoration: underline;
+    color: #f7f1f1;
+    background-color: $body-link-color;
   }
 }
 
